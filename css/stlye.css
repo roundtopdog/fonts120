@@ -1,0 +1,17 @@
+@font-face {
+    font-family: dumb;
+    src: url(../fonts/shablagoosuperital.ttf);
+	}
+@font-face {
+    font-family: aaargh;
+    src: url(../fonts/Aaargh.ttf);
+}	
+h1 {
+    font-family: dumb;
+	font-size:3em;
+}
+
+p { 
+	font-family: aargh;
+	font-size:10px;
+}
